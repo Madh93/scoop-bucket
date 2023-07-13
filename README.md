@@ -22,7 +22,8 @@ scoop install <PACKAGE>
 
 | Repository | Manifest | Description |
 | ---------- | ------- | ----------- |
-| [tpm](https://github.com/Madh93/tpm) | [tpm](tpm.json) | :hammer_and_wrench: A package manager for Terraform providers  |
+| [toffu](https://github.com/Madh93/toffu) | [toffu](toffu.json) | :hourglass_flowing_sand: Woffu presence from your terminal |
+| [tpm](https://github.com/Madh93/tpm) | [tpm](tpm.json) | :hammer_and_wrench: A package manager for Terraform providers |
 
 ## Useful Links
 
